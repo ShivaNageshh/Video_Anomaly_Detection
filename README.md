@@ -147,7 +147,7 @@ Video_Anomaly_Detection/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Tanzanite2K/Video_Anomaly_Detection.git
+git clone https://github.com/ShivaNageshh/Video_Anomaly_Detection.git
 cd Video_Anomaly_Detection
 ```
 
@@ -230,7 +230,7 @@ This project focuses on improving large-scale surveillance intelligence through 
 
 ## Author
 
-Karri Pavan Prabhas
+Mallavalli Siva Nagesh
 
 ---
 
